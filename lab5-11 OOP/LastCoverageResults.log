@@ -1,0 +1,21 @@
+[2019-05-16 11:09:38] [info] Start Program:
+Path:"C:\Users\Pop\source\repos\lab4OOP\Debug\lab4OOP.exe"
+Arguments:
+Working directory: "C:\Users\Pop\source\repos\lab4OOP\lab4OOP\"
+Modules: Selected: C:\Users\Pop\source\repos\lab4OOP\Debug\lab4OOP.exe Excluded: 
+Sources: Selected: C:\Users\Pop\source\repos\lab4OOP\lab4OOP Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Pop\AppData\Local\Temp\wwk3m00y.m2t 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2019-05-16 11:09:38] [info] Module: C:\Users\Pop\source\repos\lab4OOP\Debug\lab4OOP.exe is selected because it matches selected pattern: C:\Users\Pop\source\repos\lab4OOP\Debug\lab4OOP.exe
+[2019-05-16 11:09:38] [info] ----------------------------------------------------
+[2019-05-16 11:09:38] [info] Coverage binary generated in file: C:\Users\Pop\AppData\Local\Temp\wwk3m00y.m2t
+[2019-05-16 11:09:38] [info] ----------------------------------------------------
