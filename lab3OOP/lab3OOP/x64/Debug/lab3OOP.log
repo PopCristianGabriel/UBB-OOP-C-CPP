@@ -1,0 +1,4 @@
+﻿  UI.c
+F:\proiecte facultate\oop\lab3OOP\lab3OOP\UI.c(63): warning C4172: returning address of local variable or temporary: userInput
+F:\proiecte facultate\oop\lab3OOP\lab3OOP\UI.c(119): warning C4172: returning address of local variable or temporary: psychologicalProfile
+  lab3OOP.vcxproj -> F:\proiecte facultate\oop\lab3OOP\x64\Debug\lab3OOP.exe
